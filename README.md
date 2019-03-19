@@ -1,1 +1,3 @@
-# stm32f103-gpio-library
+# Description
+
+This is a general purpose input/output library for STM32F103 that i wanted to write ffrom stratch.
